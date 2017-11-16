@@ -1,0 +1,5 @@
+rootProject.name = 'weather.application2'
+include 'owmClient'
+includeBuild('owmClient')
+
+
